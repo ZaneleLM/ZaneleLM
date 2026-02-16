@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/ZaneleLM/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](automation)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/ZaneleLM/remediation-automation-Bash-and-Powershell/tree/main/automation)**
 
 ## 🚨 Threat Hunting and Security Operations
 

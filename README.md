@@ -13,7 +13,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting (Tor Browser Usage)](https://github.com/ZaneleLM/threat-hunting-scenario-tor)**
+- **[Threat Hunt (Tor Browser Usage)](https://github.com/ZaneleLM/threat-hunting-scenario-tor)**
+- **[Threat Hunt (Data Exfiltration)](https://github.com/ZaneleLM/Threat-Hunting-Incident-Data-Exfiltration)**
+
 
 
 <h2>📜 Certifications:</h2>

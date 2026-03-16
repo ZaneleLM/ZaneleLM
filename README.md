@@ -19,11 +19,15 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 <h2>📜 Certifications:</h2>
-- CompTIA Security+: 2023  
+
 - CompTIA Security+: 2023
+  
 - ISC2 Certified in Cybersecurity: 2023
+  
 - Microsoft AZ-900: 2025
+  
 - Microsoft SC-900: 2025
+  
 - Cisco Junior Cybersecurity Analyst
 <hr/>
 
